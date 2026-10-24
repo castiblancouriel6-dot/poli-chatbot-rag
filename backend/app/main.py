@@ -1,4 +1,3 @@
-```python
 """
 API REST Backend - Chatbot Educativo RAG
 Institución Universitaria Politécnico Grancolombiano
