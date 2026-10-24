@@ -1,0 +1,20 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Bases de datos vectoriales y datos locales
+*.chromadb
+*.sqlite3
+data/vector_store/
+
+# Entornos e IDEs
+.vscode/
+.idea/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
